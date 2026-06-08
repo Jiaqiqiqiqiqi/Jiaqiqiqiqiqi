@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Jiaqi Yao
 
-🎓 Master of Data Science
-
+🎓 Master of Data Science in UBC
 📍 Canada
 
 ## About Me
