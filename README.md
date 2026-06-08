@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there 👋 I'm Jiaqi Yao
 
-<!--
-**Jiaqiqiqiqiqi/Jiaqiqiqiqiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master of Data Science
 
-Here are some ideas to get you started:
+📍 Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+* 📊 Data Analytics
+* 🤖 Machine Learning
+* 🌎 Geospatial Analytics
+* 📈 Business Intelligence
+
+## Currently Working On
+
+* Climate Risk Analytics
+* Data Pipelines
+* Dashboard Development
+* Machine Learning Applications
+
+## Featured Projects
+
+### Mercedes-Benz Sales Dashboard
+
+Interactive business dashboard built with Dash and Plotly for vehicle sales analytics.
+
+### Titanic Survival Prediction
+
+Machine learning project using KNN and Logistic Regression with feature engineering and ROC-AUC evaluation.
+
+### Museum of Art API
+
+API development project integrating museum collection data retrieval and visualization.
+
+## Technical Skills
+
+Python | SQL | R | Power BI | Tableau | Dash | Plotly | GeoPandas | Xarray | Scikit-Learn
+
+## Connect With Me
+
+📫 [Jiaqiyao2003@outlook.com](mailto:Jiaqiyao2003@outlook.com)
+
+💼 LinkedIn: linkedin.com/in/jiaqi-yao-60b9203a4
